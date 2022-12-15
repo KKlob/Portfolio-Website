@@ -36,3 +36,10 @@ Personal Portfolio Website
    <li>Continue to upkeep readme as progress is made</li>
    </ul>
 </ol>
+
+## Documentation
+
+### Wireframe Pictures
+
+- Wireframe Base
+<img src="./portfolio-wireframe-base.png" height=500 width=auto />
